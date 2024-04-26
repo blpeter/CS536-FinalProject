@@ -1,4 +1,4 @@
-name: A8
+name: RefwSAM
 channels:
   - defaults
 dependencies:
@@ -479,4 +479,3 @@ dependencies:
       - triton==2.2.0
       - wcwidth==0.2.13
       - widgetsnbextension==4.0.10
-prefix: /home/benjaminpeterson/anaconda3/envs/A8
